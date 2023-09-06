@@ -1,0 +1,11 @@
+p > a{
+    color: violet
+}
+
+p + a {
+    color:green
+}
+
+div + p > span{
+    color: pink
+}
